@@ -13,7 +13,7 @@ Flipkart Clone Project/ │ ├── index.html # Main structure of the webpage
 ## 💻 Tech Used
 
 - HTML5
-- CSS3 (Flexbox, Grid, Media Queries)
+- CSS3
 
 ---
 
