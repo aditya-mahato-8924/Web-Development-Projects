@@ -35,13 +35,6 @@ Flipkart Clone Project/ │ ├── index.html # Main structure of the webpage
 
 ---
 
-## 🚀 Run It Locally
-
-1. Open the folder in your code editor.
-2. Open `index.html` in your browser to see the Flipkart clone in action.
-
----
-
 ## 👤 Author
 
 Made with ❤️ by **Aditya Mahato**  
